@@ -1,0 +1,126 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh visible="1" filename="karlovrancic-josiploncar.ply" label="2016-11-03T16-22-40_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.999339 -0.0321928 0.0169077 7.48896 0.0323401 0.99944 -0.00851702 -6.56442 -0.0166241 0.00905817 0.999821 -3.94775 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-03T16-40-20_cleaned.ply" label="2016-11-03T16-40-20_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.996268 -0.0284645 0.0814842 55.9551 0.0297694 0.999446 -0.014845 -9.8139 -0.0810167 0.0172153 0.996564 -55.3162 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-26-07_cleaned.ply" label="2016-11-07T16-26-07_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.993313 -0.031221 0.111157 110.311 0.0342663 0.999085 -0.0255912 -37.4175 -0.110256 0.029229 0.993473 32.1501 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-26-19_cleaned.ply" label="2016-11-07T16-26-19_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.993256 -0.0334739 0.110995 110.049 0.0365172 0.999008 -0.0255013 -36.9204 -0.110031 0.0293826 0.993495 32.2331 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-27-05_cleaned.ply" label="2016-11-07T16-27-05_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.755033 0.0312984 -0.654938 -519.596 -0.0593229 0.998025 -0.0206954 -39.9909 0.652997 0.0544788 0.755399 -68.8528 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-27-31_cleaned.ply" label="2016-11-07T16-27-31_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.753929 0.0320621 -0.656174 -520.955 -0.0595579 0.998031 -0.0196639 -38.4267 0.654251 0.0539059 0.754355 -69.4915 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-28-05_cleaned.ply" label="2016-11-07T16-28-05_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.160284 0.055021 -0.985536 -861.531 -0.140419 0.989561 0.0324085 -14.7996 0.977033 0.133193 0.166336 -470.505 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-28-41_cleaned.ply" label="2016-11-07T16-28-41_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.175431 0.0505445 -0.983193 -857.9 -0.134053 0.990607 0.0270064 -15.9858 0.975322 0.127064 0.180559 -459.453 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="0" filename="2016-11-07T16-30-01_cleaned.ply" label="2016-11-07T16-30-01_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.0503638 -0.217503 0.974759 44557.2 0.913249 -0.385046 -0.133103 -31666.1 0.404277 0.896902 0.179243 -24555 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-30-36_cleaned.ply" label="2016-11-07T16-30-36_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+-0.449339 0.0706408 -0.890564 -929.877 -0.164755 0.973218 0.160325 75.058 0.878038 0.218766 -0.425668 -900.608 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-31-47_cleaned.ply" label="2016-11-07T16-31-47_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+-0.996383 -0.064506 0.0553198 -211.46 -0.0476355 0.963067 0.265013 176.155 -0.0703717 0.261419 -0.962657 -1460.35 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-32-25_cleaned.ply" label="2016-11-07T16-32-25_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+-0.996296 -0.0661957 0.0548817 -211.428 -0.0491282 0.962026 0.2685 180.638 -0.0705712 0.264809 -0.961715 -1459.43 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-33-30_cleaned.ply" label="2016-11-07T16-33-30_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+-0.685973 -0.138231 0.714376 348.004 0.0588176 0.968042 0.243794 176.897 -0.725246 0.209254 -0.65592 -1318.38 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-33-53_cleaned.ply" label="2016-11-07T16-33-53_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+-0.684171 -0.140912 0.715579 349.599 0.0603479 0.966855 0.248093 182.07 -0.72682 0.212921 -0.652991 -1315.37 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-35-05_cleaned.ply" label="2016-11-07T16-35-05_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+-0.0717658 -0.154101 0.985445 576.216 0.0927603 0.98268 0.160424 114.359 -0.993098 0.102923 -0.0562284 -882.82 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-35-47_cleaned.ply" label="2016-11-07T16-35-47_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+-0.065337 -0.160929 0.9848 575.877 0.0873569 0.982198 0.1663 118.13 -0.994031 0.0968947 -0.0501155 -878.469 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-36-54_cleaned.ply" label="2016-11-07T16-36-54_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.576637 -0.121238 0.807955 543.333 0.0876016 0.992402 0.086394 59.0928 -0.812291 0.0209606 0.582877 -386.895 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-38-04_cleaned.ply" label="2016-11-07T16-38-04_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.631214 -0.116299 0.76684 490.082 0.106089 0.992348 0.0631724 40.1013 -0.768318 0.0414791 0.638724 -328.247 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-38-26_cleaned.ply" label="2016-11-07T16-38-26_cleaned.ply" idInFile="-1">
+   <MLMatrix44>
+0.632897 -0.116945 0.765352 489.113 0.105882 0.992313 0.0640684 41.2004 -0.766961 0.0404875 0.640415 -326.834 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="2016-11-07T16-30-01_cleaned.ply" label="2016-11-07T16-30-01_cleaned(1).ply" idInFile="-1">
+   <MLMatrix44>
+-0.48848 0.0260071 -0.872188 -922.034 -0.152192 0.981695 0.11451 33.1444 0.8592 0.188675 -0.47558 -944.722 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption boxColor="234 234 234 255" pointColor="252 233 79 255" wireColor="64 64 64 255" solidColor="192 192 192 255" pointSize="3" wireWidth="1">000111000000000000000100000001000000001010100000000100111010000111001101</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
